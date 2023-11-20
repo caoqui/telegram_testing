@@ -1,0 +1,24 @@
+{
+  "suiteMapping": {
+    "93faacec-56f3-4758-af6b-6eeb8ac383b7": [
+      {"roundBindingId":"741d01e7-842e-4b10-9e55-646343f59b14","tcId":"e3877f73-8218-4590-8c35-c411c90a9766","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"a98ea9cd-6cc0-47b2-8c66-0773b4c9cea0","tcId":"e3877f73-8218-4590-8c35-c411c90a9766","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"ca114cc7-6c5f-4cbb-8b4e-91cdedb50ed3","tcId":"e33216bf-7865-491f-8447-e2a4557d5a67","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"6f4cdde8-97eb-417d-9a16-c25eaa4ddb7e","tcId":"e3877f73-8218-4590-8c35-c411c90a9766","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"b91258a4-6977-4b30-a717-88ebaf8e12b3","tcId":"e33216bf-7865-491f-8447-e2a4557d5a67","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"67882b3b-06bd-488c-a298-f25a18e23a29","tcId":"e3877f73-8218-4590-8c35-c411c90a9766","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"38018739-cd1a-486a-89cd-d4837832cd54","tcId":"e3877f73-8218-4590-8c35-c411c90a9766","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"7d3b9b0c-d5fd-4717-a86c-8ecce54a0b06","tcId":"e3877f73-8218-4590-8c35-c411c90a9766","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"08c573d0-f6b9-4f4a-8fe0-363cac1132da","tcId":"6ddae45a-18b9-46ca-9396-289373285fd6","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"37bc82b8-fb55-4753-be1a-6d757403590c","tcId":"853f31e0-2f64-44a5-8ca0-d6f4c9283a06","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"451613c4-6fa2-4d6e-960d-e6c6b72d8bce","tcId":"508e2bf9-e061-4e19-a9e5-d716565b5caa","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"5e9e7457-53eb-44fd-aadc-c6cad2040572","tcId":"5de6418e-c080-4a2c-980b-decd0894c991","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"277be7f7-8f10-4a99-b13c-005b3b2e1ae5","tcId":"689077c4-c4c5-47c0-a322-a325276a40a0","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"79b7776e-eda7-45b8-baf2-1e2ef6e86733","tcId":"dc40a6c4-7d3b-4a0e-b047-6ce8ae102d6f","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"d947d83b-e6f8-4c90-90f0-40b3e08f2a46","tcId":"10c8c988-cf8b-47d5-8021-eb9be760a4fe","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"5c74efc9-8cd4-456c-af13-be27f8bb87a5","tcId":"4b3ce374-75cb-4629-a2b4-eee7b2b58717","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"aa59bbf8-69b6-4387-8869-82246286a6b6","tcId":"c9898150-8d12-4ef3-9794-c302f5820a8a","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"f939cd26-a0e9-490b-b574-785a446b0e1c","tcId":"36cdda08-16bc-4264-a4ba-34690ff08422","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""}
+    ]
+  }
+}

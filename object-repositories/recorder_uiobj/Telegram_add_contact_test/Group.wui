@@ -1,0 +1,34 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "/Window/Group[2]/Group/Group[3]/Group[2]/Group[4]",
+      "active": true,
+      "type": []
+    },
+    {
+      "strategy": "Accessibility ID",
+      "value": "",
+      "active": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "//Group[3]/Group[2]/Group[4]",
+      "active": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "43d7b49a-7e55-4175-a09f-d48310193bf3"
+  },
+  "type": "windows",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "43d7b49a-7e55-4175-a09f-d48310193bf3"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "559485a5-f3df-4e0a-9380-1da147826cfb",
+  "driverCapabilities": {},
+  "options": {},
+  "appTopLevelWindowLocators": [],
+  "CAPABILITY": "windows:windowsOptions",
+  "caps": {
+    "app": "D:\\Downloads\\Telegram Desktop\\Telegram.exe",
+    "appArguments": "",
+    "appWorkingDir": "",
+    "automationName": "Windows",
+    "platformName": "Windows",
+    "platformVersion": "1.0"
+  }
+}
